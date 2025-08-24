@@ -12,8 +12,6 @@
 
 ## 📦 Installation
 1. ดาวน์โหลดหรือโคลน repo นี้  
-   ```bash
-   git clone https://github.com/your-username/facebook-auto-poster.git
 วางโฟลเดอร์ไว้ที่: wp-content/plugins/fb-to-wp/
 เข้า WordPress Admin → Plugins → Activate
 
